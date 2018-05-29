@@ -1,4 +1,4 @@
-import { HomeComponent } from './home/home.component';
+//import { HomeComponent } from './home/home.component';
 import { VoterComponent } from './voter/voter.component';
 import { TodosComponent } from './todos/todos.component';
 import { UsersComponent } from './users/users.component'; 
